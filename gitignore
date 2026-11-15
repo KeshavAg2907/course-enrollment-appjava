@@ -1,0 +1,14 @@
+# Compiled Java
+*.class
+
+# App data created at runtime
+enrollments.json
+
+# IDE files
+.idea/
+*.iml
+out/
+.vscode/
+
+# macOS
+.DS_Store
